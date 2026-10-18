@@ -4,8 +4,7 @@ A behavioral skill for AI agents: **detect user frustration → stop all task
 activity immediately → clarification phase with a reality check** (the user's
 reality ↔ the agent's current reality). No blame, no gaslighting.
 
-Public and process-only by design: no coaching methods or proprietary
-frameworks are named. The strategy derives from general communication and
+Public and process-only by design: The strategy derives from general communication and
 conflict-resolution principles plus HCI research on frustration detection and
 conversational repair (digest included in each variant).
 
