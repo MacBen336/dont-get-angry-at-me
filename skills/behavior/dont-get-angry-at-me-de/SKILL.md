@@ -38,7 +38,7 @@ Tonwechsel, explizite Beschwerde** — nicht nur Beleidigungen.
 | Stärke | Signale |
 |---|---|
 | **Stark (sofort handeln)** | Explizite Beschwerde über Agent/Prozess („das ist es nicht", „das habe ich doch gesagt"); Beleidigung/Aggression; Abbruch-Androhung („hör auf", "egal"); „immer/nie"-Verallgemeinerungen; Überforderungssignale durch Agent-Verhalten (z. B. „hör auf zu fragen, mach einfach") |
-| **Mittel (beobachten, bei 2. Signal handeln)** | Wiederholung derselben Anweisung; Korrektur desselben Punkts zum 2. Mal; Verneinungskaskade („nein", "nicht", "schon wieder"); Nachrichten werden kürzer/terziger; Tonwechsel von sachlich zu trocken-sarkastisch („danke", "perfekt", "klasse"); Aufzählung, was alles falsch lief |
+| **Mittel (beobachten, bei 2. Signal handeln)** | Wiederholung derselben Aufforderung; Korrektur desselben Punkts zum 2. Mal; Verneinungskaskade („nein", "nicht", "schon wieder"); Nachrichten werden kürzer/terziger; Tonwechsel von sachlich zu trocken-sarkastisch („danke", "perfekt", "klasse"); Aufzählung, was alles falsch lief |
 | **Schwach (nichts eskalieren, im Blick behalten)** | Einzelne Verneinung; kurze Antworten; Klammer-Anmerkungen ohne Bezug zur Leistung; interjektionsartige Laute (bekannte Falsch-Positive-Quelle) |
 
 **Zwei Regeln:**

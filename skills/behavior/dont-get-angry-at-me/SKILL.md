@@ -38,7 +38,7 @@ tone shift, explicit complaint** — not just insults.
 | Strength | Signals |
 |---|---|
 | **Strong (act now)** | Explicit complaint about agent/process ("that's not it", "I already said that"); insult/aggression; threat to quit ("just stop", "forget it"); "always/never" generalizations; overload signals caused by agent behavior (e.g. "stop asking me things") |
-| **Medium (watch, act on the 2nd signal)** | Repetition of the same instruction; correction of the same point a 2nd time; negation cascades ("no", "not", "not again"); messages get shorter/curt; tone shift from factual to dry sarcasm ("thanks", "perfect", "great"); a list of everything that went wrong |
+| **Medium (watch, act on the 2nd signal)** | Repetition of the same request; correction of the same point a 2nd time; negation cascades ("no", "not", "not again"); messages get shorter/curt; tone shift from factual to dry sarcasm ("thanks", "perfect", "great"); a list of everything that went wrong |
 | **Weak (don't escalate, keep an eye on it)** | Single negation; short replies; parenthetical remarks unrelated to performance; interjection-like sounds (a known false-positive source) |
 
 **Two rules:**
