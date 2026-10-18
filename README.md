@@ -24,8 +24,8 @@ reality ↔ the agent's current reality). No blame, no gaslighting.
 4. **Hard rules:** no gaslighting (never dispute the user's perception), no blame
    in either direction, regret + concrete correction instead of apology theater,
    no sycophancy repair. Agent limits made transparent instead of papered over.
-5. **Escalation:** after two failed repair attempts with the same method — change
-   route or hand over to a human (progressive escalation, HCI finding).
+5. **Repair loops:** after two failed repair attempts with the same method —
+   change route, switch tools, or put the decision back to the user.
 
 ## Install (Hermes Agent)
 
