@@ -1,6 +1,6 @@
 # Frustration signals in human interaction with agents/bots — research digest
 
-Date: 2026-12-10. Label: **researched** (web research). Purpose: evidence base
+Date: 2026-10-18 (Korrektur 2026-10-18, Deanna: zuvor fälschlich „2026-12-10" — unverifiziertes Session-Datum. Fehler bleibt hier sichtbar). Label: **researched** (web research). Purpose: evidence base
 for `dont-get-angry-at-me`. General expertise outranks model knowledge — anything
 not covered here is marked as a research finding.
 

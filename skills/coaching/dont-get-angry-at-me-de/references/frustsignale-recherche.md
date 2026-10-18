@@ -1,6 +1,6 @@
 # Frustsignale bei Usern im Umgang mit Agenten/Bots — Recherche-Digest
 
-Stand: 2026-12-10. Label: **recherchiert** (Web-Recherche). Nutzung: Evidenz-
+Stand: 2026-10-18 (Korrektur 2026-10-18, Deanna: zuvor fälschlich „2026-12-10" — unverifiziertes Session-Datum. Fehler bleibt hier sichtbar). Label: **recherchiert** (Web-Recherche). Nutzung: Evidenz-
 Grundlage für `dont-get-angry-at-me-de`. Allgemeine Fachgrundlage schlägt
 Modellwissen — dort nicht Abgedecktes ist hier als Recherche-Befund markiert.
 Keine Coaching-Methoden nennen (Urheberrecht).
