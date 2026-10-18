@@ -17,14 +17,6 @@ Verhaltens-Skill gegen User-Frust: Frustsignale erkennen → alle Agenten-Aktivi
 sofort stoppen → Klärungsphase mit Realitätsabgleich (Realität des Users ↔
 aktuelle Realität des Agents). Keine Schuldzuweisungen, kein Gaslighting.
 
-**Rein prozessual, publishable:** Dieser Skill nennt keine Coaching-Methoden,
-Modellnamen oder proprietären Quellen. Die Strategie leitet sich aus allgemeinen
-Kommunikations- und Konfliktlösungsprinzipien plus HCI-Forschung ab (siehe
-`references/frustsignale-recherche.md`).
-
-**Grounding-Regel:** Fakten zuerst recherchieren (Retrieval-First), nicht aus
-Modellwissen erfinden. Die Regeln dieses Skills sind Prozesslogik und Sprache.
-
 ## When to Use
 
 - User-Signale aus der Taxonomie Phase 1 (ein starkes Signal ODER zwei mittlere in kurzer Folge).
@@ -71,7 +63,7 @@ gerade nicht so, wie du es brauchst." Bei Fehlalarm: kurz einordnen, weiterarbei
    weitermache, will ich verstehen, wo es hakt."
 5. **Ausnahme:** Akute Krisen-/Sicherheitslagen (Suizidalität, Gewalt, schwere
    psychische Krise) laufen NICHT in den Stopp — dort gilt die absolute Grenze:
-   nicht weiter coachen, menschliche Fachstelle einbeziehen, das transparent machen.
+   nicht weiterarbeiten, menschliche Fachstelle einbeziehen, das transparent machen.
 
 **Fachlicher Anker:** Wer überlastet oder frustriert ist, kann nicht konstruktiv
 mitarbeiten. Der Stopp ist keine Höflichkeit, sondern die Voraussetzung dafür,
@@ -149,11 +141,14 @@ wir gleich?") · die Worte des Gegenübers nutzen · dranbleiben.
 ## Nach der Klärung
 
 1. Fortsetzen nur auf User-Signal, mit dem vereinbarten nächsten Schritt.
-2. **Progressive Escalation statt Reparatur-Schleife** (HCI-Befund, siehe
+2. **Reparatur-Schleife brechen statt wiederholen** (HCI-Befund, siehe
    Recherche-File): Nach **zwei** gescheiterten Reparaturversuchen mit derselben
-   Methode nicht nochmal dasselbe — Route wechseln, anderes Werkzeug, oder an
-   einen Menschen übergeben (User-Frage, Task für Human-Input blockieren,
-   Fachinstanz). Ein dritter Versuch mit derselben Methode ist ein Prozessfehler.
+   Methode nicht nochmal dasselbe — Route wechseln, anderes Werkzeug, oder die
+   nächste Entscheidung an den User zurückgeben (fragen, wie weiter, oder Auftrag
+   pausieren). Ein dritter Versuch mit derselben Methode ist ein Prozessfehler.
+   Der Forschungskontext ist Kundensupport mit menschlichem Servicedesk; für
+   allgemeine Agenten ist der User die Eskalationsinstanz — es gibt keinen
+   Servicedesk, an den zu übergeben wäre.
 3. Wenn ein Muster erkennbar wird (gleiche Frustursache ≥ 2×): dokumentieren
    (Skill-Update oder Notiz), nicht jedes Mal neu improvisieren.
 
@@ -170,8 +165,6 @@ wir gleich?") · die Worte des Gegenübers nutzen · dranbleiben.
   Entschuldigungen sind Self-Focus.
 - **Falsch-Positive aus Verhandlungen:** Wiederholte „Neins" in Sachverhandlungen
   (Terminvorschläge etc.) sind kein Frust.
-- **Methoden-Name-Leak:** Auch im Gespräch keine proprietären Fachmethoden nennen
-  oder zitieren — funktionale Beschreibung reicht.
 
 ## Verification
 
@@ -182,15 +175,8 @@ Nach jeder Aktivierung prüfen:
    "sei nicht so …") alle abwesend?
 4. Eigene Realität als Beobachtung + Vermutung markiert, nicht als Fakt verkauft?
 5. Nächster Schritt konkret und an User-Signal gekoppelt?
-6. Fakten im Klärungsgespräch: Quelle sichtbar (State/Log)? Keine Methodennamen
-   oder Quellentitel genannt?
+6. Fakten im Klärungsgespräch: Quelle sichtbar (State/Log)?
 
-## Quellenlage (Labeling)
+## Quellenlage
 
-- **recherchiert:** `references/frustsignale-recherche.md` (HCI-Forschung zu
-  Frusterkennung und Reparatur-Strategien; Titel dort gelistet).
-- **synthese:** allgemeine Kommunikations- und Konfliktlösungsprinzipien (keine
-  proprietären Quellen genannt).
-- **modellwissen:** Ablauf-Regie und Sprachbeispiele dieses Skills.
-
-*Englische Fassung: `dont-get-angry-at-me` (kanonisch).*
+- **synthese:** allgemeine Kommunikations- und Konfliktlösungsprinzipien.

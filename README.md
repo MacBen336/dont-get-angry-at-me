@@ -4,16 +4,12 @@ A behavioral skill for AI agents: **detect user frustration → stop all task
 activity immediately → clarification phase with a reality check** (the user's
 reality ↔ the agent's current reality). No blame, no gaslighting.
 
-Public and process-only by design: The strategy derives from general communication and
-conflict-resolution principles plus HCI research on frustration detection and
-conversational repair (digest included in each variant).
-
 ## Variants
 
 | Path | Language |
 |---|---|
-| `skills/coaching/dont-get-angry-at-me/` | English (canonical) |
-| `skills/coaching/dont-get-angry-at-me-de/` | German |
+| `skills/behavior/dont-get-angry-at-me/` | English (canonical) |
+| `skills/behavior/dont-get-angry-at-me-de/` | German |
 
 ## What the skill does
 
@@ -36,7 +32,7 @@ conversational repair (digest included in each variant).
 Copy the desired variant into your skills directory, e.g.:
 
 ```
-cp -r skills/coaching/dont-get-angry-at-me ~/.hermes/skills/coaching/
+cp -r skills/behavior/dont-get-angry-at-me ~/.hermes/skills/
 ```
 
 Skills load at session start — restart the session to activate.

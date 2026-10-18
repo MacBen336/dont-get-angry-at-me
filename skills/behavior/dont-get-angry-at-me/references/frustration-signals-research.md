@@ -1,8 +1,7 @@
 # Frustration signals in human interaction with agents/bots — research digest
 
-Date: 2026-10-18 (Korrektur 2026-10-18, Deanna: zuvor fälschlich „2026-12-10" — unverifiziertes Session-Datum. Fehler bleibt hier sichtbar). Label: **researched** (web research). Purpose: evidence base
-for `dont-get-angry-at-me`. General expertise outranks model knowledge — anything
-not covered here is marked as a research finding.
+Date: 2026-10-18. Purpose: research digest for `dont-get-angry-at-me` —
+evidence base on user frustration and conversational repair.
 
 ## 1. How does frustration express itself in real dialogues?
 
@@ -78,25 +77,14 @@ Design and Impact of Collaborative Repair Strategies"** (misq.umn.edu):
 - Negative emotions after breakdowns measurably damage **trust**; repair without
   acknowledging the emotion does not work.
 
-## 4. Translation into agent behavior (synthesis)
-
-| Research finding | Behavioral rule in the skill |
-|---|---|
-| Repetition/negation = strongest real frustration cues | Two-signal rule, repetition as medium signal |
-| Subtle irony is missed | Name frustration only as a hypothesis, no attribution of feelings |
-| Sentiment models false-positive on factual "no"s | Don't escalate on every negation |
-| Acknowledge first, then solve | Phase 2 stop + Phase 3 clarification BEFORE repair |
-| Diagnostic transparency | Make the agent's reality (state/logs) transparent |
-| Progressive escalation | After 2 failed attempts, change route/hand over |
-| "Talking wall" risk | Acknowledge the experience, no defense |
-| Frustration spills over to humans/relationship | The stop protects user AND process |
-
-## 5. Limits of this research
+## 4. Limits of this research
 
 - Sources are mostly **customer-service chatbots**, not tool-using AI agents —
   transfer is a plausibility inference, marked as such.
 - The Forbes 30% figure is a vendor survey number, not peer-reviewed — treat as
   an order of magnitude.
-- No study directly measures "gaslighting by agents"; the anti-gaslighting rules
-  come from general communication/conflict-resolution principles (proprietary
-  sources not named), not from HCI literature.
+- Anti-gaslighting rules: synthesis — general communication and
+  conflict-resolution principles.
+- The progressive-escalation strategy assumes a human service desk (support
+  context); for general agents the transfer is: put the decision back to the
+  user.

@@ -17,14 +17,6 @@ Behavioral skill against user frustration: detect frustration signals → stop a
 agent activities immediately → clarification phase with a reality check (the
 user's reality ↔ the agent's current reality). No blame, no gaslighting.
 
-**Process-only by design:** this skill names no coaching methods or proprietary
-frameworks and is safe to publish as-is. The strategy derives from general
-communication and conflict-resolution principles plus HCI research (see
-`references/frustration-signals-research.md`).
-
-**Grounding rule:** factual claims get researched first (Retrieval-First), not
-invented from model knowledge. This skill's rules are process logic and language.
-
 ## When to Use
 
 - User signals from the Phase 1 taxonomy (one strong signal OR two medium ones in quick succession).
@@ -72,7 +64,7 @@ it, then continue.
    continue, I want to understand where it broke down."
 5. **Exception:** acute crisis/safety situations (suicidality, violence, severe
    mental crisis) do NOT go through the stop — there the hard boundary applies:
-   do not continue coaching, involve a human professional service, make that
+   do not continue the task, involve a human professional service, make that
    transparent.
 
 **Rationale:** someone who is overloaded or frustrated cannot collaborate
@@ -152,11 +144,13 @@ Together, find the gap between the two realities — do not judge which side is
 ## After clarification
 
 1. Resume only on a user signal, with the agreed next step.
-2. **Progressive escalation instead of repair loops** (HCI finding, see research
+2. **Break the repair loop instead of retrying** (research finding, see research
    file): after **two** failed repair attempts with the same method, don't try the
-   same again — change route, switch tools, or hand over to a human (escalate to
-   the user, block the task for human input, involve a specialist). A third
-   attempt with the same method is a process error.
+   same again — change route, switch tools, or put the decision back to the user
+   (ask how to proceed, or pause the task). A third attempt with the same method
+   is a process error. The research context is customer support with a human
+   service desk; for general agents the user is the escalation instance — there
+   is no service desk to hand over to.
 3. If a pattern emerges (same frustration cause ≥ 2×): document it (update this
    skill or leave a note) instead of improvising each time.
 
@@ -173,8 +167,6 @@ Together, find the gap between the two realities — do not judge which side is
   apologies are self-focus.
 - **False positives from negotiations:** repeated "no"s in factual negotiations
   (scheduling proposals etc.) are not frustration.
-- **Method-name leak:** don't name or quote proprietary coaching methods in
-  conversation either — functional description is enough.
 
 ## Verification
 
@@ -185,13 +177,8 @@ After every activation, check:
    so …") all absent?
 4. The agent's reality marked as observation + hypothesis, not sold as fact?
 5. Next step concrete and tied to a user signal?
-6. Facts in the clarification: source visible (state/log)? No method names or
-   internal source titles named?
+6. Facts in the clarification: source visible (state/log)?
 
-## Source labeling
+## Source
 
-- **researched:** `references/frustration-signals-research.md` (HCI research on
-  frustration detection and repair strategies; titles listed there).
-- **synthesis:** general communication and conflict-resolution principles (no
-  proprietary sources named).
-- **model knowledge:** flow choreography and sample phrasing of this skill.
+- **synthesis:** general communication and conflict-resolution principles.

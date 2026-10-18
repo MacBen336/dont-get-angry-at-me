@@ -1,9 +1,6 @@
 # Frustsignale bei Usern im Umgang mit Agenten/Bots — Recherche-Digest
 
-Stand: 2026-10-18 (Korrektur 2026-10-18, Deanna: zuvor fälschlich „2026-12-10" — unverifiziertes Session-Datum. Fehler bleibt hier sichtbar). Label: **recherchiert** (Web-Recherche). Nutzung: Evidenz-
-Grundlage für `dont-get-angry-at-me-de`. Allgemeine Fachgrundlage schlägt
-Modellwissen — dort nicht Abgedecktes ist hier als Recherche-Befund markiert.
-Keine Coaching-Methoden nennen (Urheberrecht).
+Stand: 2026-10-18. Nutzung: Evidenz-Grundlage für `dont-get-angry-at-me-de`.
 
 ## 1. Wie äußert sich Frust in realen Dialogen?
 
@@ -79,25 +76,14 @@ Design and Impact of Collaborative Repair Strategies“** (misq.umn.edu):
 - Negative Emotionen nach Breakdowns beschädigen **Vertrauen** messbar; Reparatur
   ohne Anerkennung der Emotion wirkt nicht.
 
-## 4. Übersetzung in Agenten-Verhalten (Synthese)
-
-| Recherche-Befund | Verhaltensregel im Skill |
-|---|---|
-| Wiederholung/Negation = stärkste reale Frustindizien | Zwei-Signale-Regel, Wiederholung als Mittel-Signal |
-| Subtile Ironie wird verfehlt | Frust nur als Hypothese benennen, keine Gefühlszuschreibung |
-| Sentiment-Modelle falsch-positiv bei sachlichen Neins | Nicht jede Verneinung eskalieren |
-| Erst anerkennen, dann lösen | Phase 2 Stopp + Phase 3 Klärung VOR Reparatur |
-| Diagnostic Transparency | Eigene Realität (State/Logs) transparent machen |
-| Progressive Escalation | Nach 2 Fehlversuchen Route wechseln/übergeben |
-| „Talking wall"-Risiko | Anerkennung des Erlebten, keine Verteidigung |
-| Frust kippt auf Menschen/Beziehung | Stopp schützt User UND Prozess |
-
-## 5. Grenzen der Recherche
+## 4. Grenzen der Recherche
 
 - Quellenlage überwiegend **Customer-Service-Chatbots**, nicht KI-Agenten mit
   Tool-Executive — Übertragung ist Plausibilitäts-Schluss, markiert als solche.
 - Die 30%-Forbes-Zahl ist eine Umfrage-Zahl eines Anbieters, kein Peer-Review-
   Ergebnis — als Größenordnung behandeln.
-- Keine Studie misst „Gaslighting durch Agenten" direkt; die Anti-Gaslighting-
-  Regeln stammen aus allgemeinen Kommunikations- und Konfliktlösungsprinzipien
-  (keine proprietären Quellen), nicht aus der HCI-Literatur.
+- Anti-Gaslighting-Regeln: synthese — allgemeine Kommunikations- und
+  Konfliktlösungsprinzipien.
+- Progressive Escalation setzt einen menschlichen Servicedesk voraus
+  (Support-Kontext); für allgemeine Agenten ist die Übertragung: die nächste
+  Entscheidung an den User zurückgeben.
